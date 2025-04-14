@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Fey-Agasha/FeyAgasha.github.io/headpicture.png" width="600">
+  <img src="https://github.com/Fey-Agasha/FeyAgasha.github.io/blob/main/headpicture.jpg" width="600">
 </p>
 # 📈 Survival Analysis Project
 
