@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Fey-Agasha/FeyAgasha.github.io/headpicture.png" width="600">
+</p>
 # 📈 Survival Analysis Project
 
 Welcome to my survival analysis project! This repository contains:
