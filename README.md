@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Fey-Agasha/FeyAgasha.github.io/blob/main/headpicture.jpg" width="600">
+  <img src="https://github.com/Fey-Agasha/FeyAgasha.github.io/blob/main/headpicture.jpg" >
 </p>
+
 # 📈 Survival Analysis Project
 
 Welcome to my survival analysis project! This repository contains:
